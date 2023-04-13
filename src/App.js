@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           <code>Ihor Postnikov</code> <a href="http://ihpst.byethost15.com/"> DevOps Terminal </a>
+           Ihor <code> Postnikov</code>
         </p>
         <a
           className="App-link"
