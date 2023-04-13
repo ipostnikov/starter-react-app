@@ -9,7 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a href="http://ihpst.byethost15.com/"> DevOps terminal </a>
         <a
           className="App-link"
           href="https://reactjs.org"
